@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johny-coding.github.io/jakub/sitemap.xml
